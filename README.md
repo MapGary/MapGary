@@ -1,4 +1,6 @@
-// # Hi there 👋
+<!--
+# Hi there 👋
+-->
 
 ### :hammer_and_wrench: Languages and tools used in my work and projects:
 <div>
