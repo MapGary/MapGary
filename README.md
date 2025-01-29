@@ -18,6 +18,9 @@
 ---
 
 ### Here are some examples of my projects:
+
+💬 [Examples of tests in Postman and examples of test documentation](https://github.com/MapGary/PostmanExamplesAndDocumentation)
+💬 Automated API testing examples
 <!--
 **MapGary/MapGary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
