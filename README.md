@@ -19,9 +19,26 @@
 
 ### Here are some examples of my projects:
 
+**Testing**
+
 💬 [Examples of tests in Postman and examples of test documentation](https://github.com/MapGary/PostmanExamplesAndDocumentation)
 
-💬 Automated API testing examples
+💬 [Automated API testing examples](https://github.com/MapGary/ReqresProject)
+
+**Other Pet Projects**
+
+💬 [Arkanoid game](https://github.com/MapGary/arkanoid) - simple mini-game written in JavaScript
+
+💬 [Snake game](https://github.com/MapGary/snake) - a simple game written in JavaScript
+
+💬 [Snake Coursor](https://github.com/MapGary/snakeCursor) - addictive browser application where a Coloured Snake follows your cursor
+
+💬 [Gallery](https://github.com/MapGary/gallery) - example of a simple Gallery
+
+💬 [Slider](https://github.com/MapGary/slider) - simple Image slider with accompanying descriptions
+
+💬 [Aim Mini-Game](https://github.com/MapGary/aim-mini) - simple game of hitting the target
+
 <!--
 **MapGary/MapGary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
