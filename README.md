@@ -23,7 +23,7 @@
 
 💬 [Examples of tests in Postman and examples of test documentation](https://github.com/MapGary/PostmanExamplesAndDocumentation)
 
-💬 [Automated API testing examples](https://github.com/MapGary/ReqresProject)
+💬 [Automated API testing examples](https://github.com/MapGary/ReqresProject) (in progress)
 
 **Other Pet Projects**
 
