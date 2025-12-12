@@ -25,7 +25,7 @@
 
 💬 [Automated API testing examples](https://github.com/MapGary/ReqresProject) (in progress)
 
-💬 [Automated test project on Java] (https://github.com/MapGary/SP-WEB-UI)
+💬 [Automated test project on Java](https://github.com/MapGary/SP-WEB-UI)
 
 **Other Pet Projects**
 
